@@ -1,0 +1,7 @@
+name = "Chaos"
+uuid = "71e62ec6-d219-4abb-b5d3-c4f516f7f5c8"
+authors = ["ErikQQY <2283984853@qq.com>"]
+version = "0.1.0"
+
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
